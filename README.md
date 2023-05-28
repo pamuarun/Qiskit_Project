@@ -7,15 +7,15 @@ The central goal of Qiskit is to build a software stack that makes it easy for a
 Tasks Given :
 Code based - • If you are more comfortable with code:
 
-Create a program that builds an oracle for a given string (e.g. given 01101, will return a QuantumCircuit that inverts the phase of the state |01101> and leaves all other states unchanged.
-Tackle an open issue in the Qiskit Terra repo.
-Create a program that builds an oracle circuit from a problem (like the Phase Oracle class does in the previous page). Assess how the size of your circuits grow with the size of the problem.
-Try making a quantum game.
+1.Create a program that builds an oracle for a given string (e.g. given 01101, will return a QuantumCircuit that inverts the phase of the state |01101> and leaves all other states unchanged.
+2.Tackle an open issue in the Qiskit Terra repo.
+3.Create a program that builds an oracle circuit from a problem (like the Phase Oracle class does in the previous page). Assess how the size of your circuits grow with the size of the problem.
+4.Try making a quantum game.
 We are the people of "five" from 6CAI-02 did a mini-project based on quantum given by our faculty.
 
 Members Contributed:
-S.BHARATH CHANDRA ( 20201CAI0083 )
-MICHANAGATLA VAMSI ( 20201CAI0120 )
-TALARI DILEEP KUMAR ( 20201CAI0145 )
-TAPZUL SAI CHARAN ( 20201CAI0149 )
-PAMU ARUN TEJA ( 20201CAI0152 )
+1.S.BHARATH CHANDRA ( 20201CAI0083 )
+2.MICHANAGATLA VAMSI ( 20201CAI0120 )
+3.TALARI DILEEP KUMAR ( 20201CAI0145 )
+4.TAPZUL SAI CHARAN ( 20201CAI0149 )
+5.PAMU ARUN TEJA ( 20201CAI0152 )
